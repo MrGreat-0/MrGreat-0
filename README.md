@@ -32,7 +32,7 @@ A comprehensive film portfolio website created with HTML, CSS, and JavaScript. I
 Simple landing page created with HTML, CSS, JS & GSAP for practice. It's a mimic of an Awwward Nominated Website and it's responsive.
 - [Live Site](https://mrgreat-0.github.io/Practice-Website-09/)
 
-### [Photography Website](https://github.com.MrGreat-0/Photography-Website/)
+### [Photography Website](https://github.com/MrGreat-0/Photography-Website/)
 This project showcases a collection of captivating photographs. Explore the codebase to see how HTML, CSS, JavaScript, and GSAP were used to create an immersive and visually stunning online portfolio.
 - [Live Site](https://www.perfectmomentsphotography.in/)
 
@@ -44,7 +44,7 @@ A landing page created for Refokus, showcasing the company's services and portfo
 A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. It features a simple and intuitive interface for an enjoyable gaming experience.
 - [Live Site](https://mrgreat-0.github.io/Tic-Tac-Toe-Game/)
 
-### [Bubble-Game](https://github.com.MrGreat-0/Bubble-Game/)
+### [Bubble-Game](https://github.com/MrGreat-0/Bubble-Game/)
 A simple mini-project created with HTML, CSS & JavaScript for practice.
 - [Live Site](https://mrgreat-0.github.io/Bubble-Game/)
 
