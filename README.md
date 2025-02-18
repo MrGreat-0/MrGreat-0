@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about web development and enjoy wor
 A comprehensive film portfolio website created with HTML, CSS, and JavaScript. It showcases various movies with detailed descriptions and dynamic content.
 - [Live Site](https://film-folio-pi.vercel.app/)
 
-### [Practice-Website-09](https://github.com.MrGreat-0/Practice-Website-09/)
+### [Practice-Website-09](https://github.com/MrGreat-0/Practice-Website-09/)
 Simple landing page created with HTML, CSS, JS & GSAP for practice. It's a mimic of an Awwward Nominated Website and it's responsive.
 - [Live Site](https://mrgreat-0.github.io/Practice-Website-09/)
 
