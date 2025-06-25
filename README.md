@@ -30,7 +30,7 @@ A comprehensive film portfolio website created with HTML, CSS, and JavaScript. I
 
 ### [URL Shortener](https://github.com/MrGreat-0/URL-Shortner)
 A simple and efficient service to shorten long URLs into easy-to-share short links. Features include custom aliases, click analytics, and a clean web interface.
-🔗 [Live Demo](https://urlshortner-jet.vercel.app/)
+- [Live Demo](https://urlshortner-jet.vercel.app/)
 
 ### [Practice-Website-09](https://github.com/MrGreat-0/Practice-Website-09/)
 Simple landing page created with HTML, CSS, JS & GSAP for practice. It's a mimic of an Awwward Nominated Website and it's responsive.
