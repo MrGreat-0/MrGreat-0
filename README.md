@@ -22,11 +22,15 @@ Welcome to my GitHub profile! I'm passionate about web development and enjoy wor
 ### Tools and Platforms
 - Git & GitHub
 
-## Projects
+## 🚀 Projects
 
 ### [Film-Folio](https://github.com/MrGreat-0/Film-Folio)
 A comprehensive film portfolio website created with HTML, CSS, and JavaScript. It showcases various movies with detailed descriptions and dynamic content.
 - [Live Site](https://film-folio-pi.vercel.app/)
+
+### [URL Shortener](https://github.com/MrGreat-0/URL-Shortner)
+A simple and efficient service to shorten long URLs into easy-to-share short links. Features include custom aliases, click analytics, and a clean web interface.
+🔗 [Live Demo](https://urlshortner-jet.vercel.app/)
 
 ### [Practice-Website-09](https://github.com/MrGreat-0/Practice-Website-09/)
 Simple landing page created with HTML, CSS, JS & GSAP for practice. It's a mimic of an Awwward Nominated Website and it's responsive.
@@ -43,10 +47,6 @@ A landing page created for Refokus, showcasing the company's services and portfo
 ### [Tic-Tac-Toe-Game](https://github.com/MrGreat-0/Tic-Tac-Toe-Game)
 A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. It features a simple and intuitive interface for an enjoyable gaming experience.
 - [Live Site](https://mrgreat-0.github.io/Tic-Tac-Toe-Game/)
-
-### [Bubble-Game](https://github.com/MrGreat-0/Bubble-Game/)
-A simple mini-project created with HTML, CSS & JavaScript for practice.
-- [Live Site](https://mrgreat-0.github.io/Bubble-Game/)
 
 ## GitHub Stats
 
