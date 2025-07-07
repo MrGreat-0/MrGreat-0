@@ -49,7 +49,7 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. It features a s
 - [Live Site](https://mrgreat-0.github.io/Tic-Tac-Toe-Game/)
 
 ## GitHub Stats
-<---
+<!---
 ![MrGreat-0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrGreat-0&show_icons=true&theme=radical)
 --->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGreat-0&layout=compact&theme=radical)
