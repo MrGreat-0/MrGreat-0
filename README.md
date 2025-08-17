@@ -1,4 +1,4 @@
-# Hi there, I'm Mr.Great 👋
+# Hi there, I'm Akash 👋
 
 Welcome to my GitHub profile! I'm passionate about web development and enjoy working on various projects that challenge my skills and creativity. Here's a little bit about me:
 
